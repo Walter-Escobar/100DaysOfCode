@@ -11,3 +11,7 @@ Started a new Django project, this time to make a project that I hope I'll be pr
 
 Completed some more challenges at picoCTF. Have been learning the basics of reverse engineering and getting comfortable with the linux terminal.
             
+### Day 2 -
+
+Continued with Data school tutorials on youtube. Experimented with 'K nearest neighbours classifier' and 'Logistic Regression' using scikit learn. Used the iris dataset for it.
+
